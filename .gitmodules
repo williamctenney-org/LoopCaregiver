@@ -1,0 +1,12 @@
+[submodule "LoopKit"]
+path = LoopKit
+url = https://github.com/LoopKit/LoopKit.git
+branch = dev
+[submodule "LoopCoreDataKit"]
+path = LoopCoreDataKit
+url = https://github.com/LoopKit/LoopCoreDataKit.git
+branch = dev
+[submodule "CGMBLEKit"]
+path = CGMBLEKit
+url = https://github.com/LoopKit/CGMBLEKit.git
+branch = dev
